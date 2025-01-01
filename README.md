@@ -1,4 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is StephenLegacy=====================================================================================================================================Cloud Developer, Cyber Security Enthusiast------------------------------------------Hi there! I'm StephenLegacy, a passionate cloud enthusiast and IT professional with experience in AWS, cybersecurity, web development, and cloud automation. I specialize in creating scalable cloud solutions, designing secure systems, and building intuitive web applications. Currently, I'm diving into AWS Solutions Architecture and expanding my knowledge in Django and network defense. When I'm not coding, I'm learning new technologies and exploring ways to innovate in the tech industry. Feel free to check out my projects and connect with me!* 🌍  I'm based in Nairobi* ✉️  You can contact me at [oloostephen20191@gmail.com](mailto:oloostephen20191@gmail.com)* 🧠  I'm learning Django* 🤝  I'm open to collaborating on Web & Cloud Projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+**Hi there!**  
+I'm **StephenLegacy**, a passionate Cloud Developer and Cybersecurity Enthusiast. With hands-on experience in **AWS**, **cybersecurity**, **web development**, and **cloud automation**, I specialize in creating scalable cloud solutions, designing secure systems, and developing intuitive web applications.
+
+Currently, I'm expanding my knowledge in **AWS Solutions Architecture**, **Django**, and **network defense**. I'm always learning new technologies and looking for innovative ways to solve challenges in the tech industry.
+
+Feel free to check out my projects and connect with me!  
+🌍 Based in **Nairobi**  
+✉️ Contact me at [oloostephen20191@gmail.com](mailto:oloostephen20191@gmail.com)  
+🧠 Currently learning **Django**  
+🤝 Open to collaborating on **Web & Cloud Projects**
 
 <a href="https://www.github.com/StephenLegacy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/StephenLegacy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/elite_executi4" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/elite_executi4?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
