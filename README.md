@@ -1,5 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 **Hi there!**  
+
 I'm **StephenLegacy**, a passionate Cloud Developer and Cybersecurity Enthusiast. With hands-on experience in **AWS**, **cybersecurity**, **web development**, and **cloud automation**, I specialize in creating scalable cloud solutions, designing secure systems, and developing intuitive web applications.
 
 Currently, I'm expanding my knowledge in **AWS Solutions Architecture**, **Django**, and **network defense**. I'm always learning new technologies and looking for innovative ways to solve challenges in the tech industry.
@@ -10,10 +11,11 @@ Feel free to check out my projects and connect with me!
 🧠 Currently learning **Django**  
 🤝 Open to collaborating on **Web & Cloud Projects**
 
-<a href="https://www.github.com/StephenLegacy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/StephenLegacy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/elite_executi4" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/elite_executi4?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+<a href="https://www.github.com/StephenLegacy" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/StephenLegacy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/elite_executi4" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/elite_executi4?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
-### Skills
+Skills
 
 
 <p align="left">
