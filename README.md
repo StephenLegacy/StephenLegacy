@@ -4,10 +4,10 @@
 
 I'm **StephenLegacy**, a passionate Cloud Developer and Cybersecurity Enthusiast. With hands-on experience in **AWS**, **cybersecurity**, **web development**, and **cloud automation**, I specialize in creating scalable cloud solutions, designing secure systems, and developing intuitive web applications.
 
-Currently, I'm expanding my knowledge in **AWS Solutions Architecture**, **Django**, and **network defense**. I'm always learning new technologies and looking for innovative ways to solve challenges in the tech industry.
+Currently, I'm expanding my knowledge in **AWS Solutions Architecture**, **Django**, and **network defense**. I'm always learning new technologies and looking for innovative ways to solve challenges in the technology industry.
 
 Feel free to check out my projects and connect with me!  
-🌍 Based in **Nairobi**  
+🌍 Based in **Nairobi, Kenya**  
 ✉️ Contact me at [oloostephen20191@gmail.com](mailto:oloostephen20191@gmail.com)  
 🧠 Currently learning **Django**  
 🤝 Open to collaborating on **Web & Cloud Projects**
