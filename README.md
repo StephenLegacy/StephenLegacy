@@ -1,5 +1,5 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-**Hello there!**  
+**Hello there!**  oooo
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=StephenLegacy+Welcomes+You;Happy+Coding+&+Innovation)](https://git.io/typing-svg)
 
 I'm **StephenLegacy**, a passionate Cloud Developer and Cybersecurity Enthusiast. With hands-on experience in **AWS**, **cybersecurity**, **web development**, and **cloud automation**, I specialize in creating scalable practical  cloud solutions, designing secure systems, and developing intuitive websites and web applications.
