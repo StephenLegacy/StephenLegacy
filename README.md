@@ -68,7 +68,7 @@ Feel free to check out my projects and connect with me!
 
 <a href="https://github.com/StephenLegacy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenLegacy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="All Languages" /></a>
 
-### Impressed By The Work?
+### Impressed By My Work?
 
 <ul style="list-style-type: none; margin: 0;"><li: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/stephlegacy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
