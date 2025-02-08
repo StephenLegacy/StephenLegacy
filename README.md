@@ -1,4 +1,6 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <h1>**Hello, I'm So Glad You're Here!** 
+
+I'm Making Progress, Happy Of Course
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=StephenLegacy+Welcomes+You;Happy+Coding+&+Innovation)](https://git.io/typing-svg)
