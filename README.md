@@ -13,7 +13,7 @@ Feel free to check out my projects and connect with me!
 🌍 Based in **Nairobi, Kenya**  
 ✉️ Contact me at [oloostephen20191@gmail.com](mailto:oloostephen20191@gmail.com)  
 🧠 Currently learning **Web3 & BlockChain**  
-🤝 I'm Open to collaborating on **Web & Cloud Projects**
+🤝 Open to collaborating on **Web & Cloud Projects**
 <br>
 
 ## 
