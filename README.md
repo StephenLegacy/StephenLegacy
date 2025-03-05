@@ -7,7 +7,7 @@
 I'm **StephenLegacy**, a passionate Software Developer, Aspiring Cloud Developer and Cybersecurity Enthusiast. With hands-on experience in **AWS**, **cybersecurity**, **web development**, and **cloud automation**, I specialize in creating scalable practical  cloud solutions, designing secure systems, and developing intuitive websites and web applications.
 I'm also an event organizer, MC and aspring AWS Cloud Captain.
 
-Currently, I'm expanding my knowledge in **AWS Solutions Architecture**, **Django**, and **network defense**. I'm always learning new technologies and looking for innovative ways to solve challenges in the tech industry.
+Currently, I'm expanding my knowledge in **AWS Solutions Architecture**, **Django**, and **Network Defense**. I'm always learning new technologies and looking for innovative ways to solve challenges in the tech industry.
 
 Feel free to check out my projects and connect with me!  
 🌍 Based in **Nairobi, Kenya**  
